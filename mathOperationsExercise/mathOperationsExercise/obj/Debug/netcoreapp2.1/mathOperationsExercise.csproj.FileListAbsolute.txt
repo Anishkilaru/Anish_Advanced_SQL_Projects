@@ -1,0 +1,11 @@
+C:\VCS_Drill\C#\mathOperationsExercise\mathOperationsExercise\bin\Debug\netcoreapp2.1\mathOperationsExercise.deps.json
+C:\VCS_Drill\C#\mathOperationsExercise\mathOperationsExercise\bin\Debug\netcoreapp2.1\mathOperationsExercise.runtimeconfig.json
+C:\VCS_Drill\C#\mathOperationsExercise\mathOperationsExercise\bin\Debug\netcoreapp2.1\mathOperationsExercise.runtimeconfig.dev.json
+C:\VCS_Drill\C#\mathOperationsExercise\mathOperationsExercise\bin\Debug\netcoreapp2.1\mathOperationsExercise.dll
+C:\VCS_Drill\C#\mathOperationsExercise\mathOperationsExercise\bin\Debug\netcoreapp2.1\mathOperationsExercise.pdb
+C:\VCS_Drill\C#\mathOperationsExercise\mathOperationsExercise\obj\Debug\netcoreapp2.1\mathOperationsExercise.csprojAssemblyReference.cache
+C:\VCS_Drill\C#\mathOperationsExercise\mathOperationsExercise\obj\Debug\netcoreapp2.1\mathOperationsExercise.csproj.CoreCompileInputs.cache
+C:\VCS_Drill\C#\mathOperationsExercise\mathOperationsExercise\obj\Debug\netcoreapp2.1\mathOperationsExercise.AssemblyInfoInputs.cache
+C:\VCS_Drill\C#\mathOperationsExercise\mathOperationsExercise\obj\Debug\netcoreapp2.1\mathOperationsExercise.AssemblyInfo.cs
+C:\VCS_Drill\C#\mathOperationsExercise\mathOperationsExercise\obj\Debug\netcoreapp2.1\mathOperationsExercise.dll
+C:\VCS_Drill\C#\mathOperationsExercise\mathOperationsExercise\obj\Debug\netcoreapp2.1\mathOperationsExercise.pdb
